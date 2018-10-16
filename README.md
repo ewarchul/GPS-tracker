@@ -1,6 +1,6 @@
-#Simple GPS/GLONASS tracker written in R, matlab and AMPL
+# Simple GPS/GLONASS tracker written in R, matlab and AMPL
 
-##Description 
+## Description 
 
 Program(s) based on input data determine geographic position.
 
@@ -10,11 +10,11 @@ Output data is in format: <solution in spherical coordinate system, runtime,choo
 
 More info, i.e. analytical model, description of numerical experiments and conclusions, contains documentation in directory /doc. Unfortunately written only in polish.  
 
-##Usage
+## Usage
 
 > `bash gps_tracker -lang -datafile [-help]`
 
-##Requirements
+## Requirements
 
 - **R** v3.4.4+
 - **Matlab** newest version 
