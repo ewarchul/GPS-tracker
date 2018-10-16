@@ -12,14 +12,14 @@ More info, i.e. analytical model, description of numerical experiments and concl
 
 ## Usage
 
-> `bash gps_tracker -lang -datafile [-help]`
+`bash gps_tracker -lang -datafile [-help]`
 
 ## Requirements
 
 - **R** v3.4.4+
 - **Matlab** newest version 
-- *AMPL** at least in demo version
-    - **Kestrel** client to connect with NEOS server
+- **AMPL** at least in demo version
+    - **Kestrel** client to connect with NEOS server.
     
 
 
